@@ -1,0 +1,19 @@
+body {
+   background-color: burlywood;
+   color: blueviolet;
+   font-size: 16px;
+   font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    width: 200px;
+    border-radius: 50%;
+    border: 5px solid red;
+}
+
+a {
+    color: black; 
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bold;
+}

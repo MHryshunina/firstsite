@@ -1,0 +1,44 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;  
+}
+
+body {
+    background-color: darkgray;
+    color: white;
+    width: 100%;
+}
+
+.block {
+    background-color: rgb(44, 0, 83);
+    border: 2px dashed rgb(255, 238, 0);
+    height: 60px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.header,
+.footer,
+.main {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.block1 {
+    width: 45%;
+    float: left;
+}
+
+.block2 {
+    width: 45%;
+    float: right;
+}
+
+.block3 {
+    width: 60%;
+    margin: 0 auto;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    clear: both;
+}
